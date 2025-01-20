@@ -1,4 +1,3 @@
-import React from 'react';
 import { AuthForm } from './components/auth/auth-form';
 
 function App() {
